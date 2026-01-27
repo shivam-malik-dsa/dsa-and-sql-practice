@@ -1,5 +1,5 @@
-# SQL Practice 📊
+# SQL Practice
 
-This folder contains SQL queries for interview preparation.
+This folder contains SQL queries written during my learning journey.
 
-Database: PostgreSQL
+Database used: PostgreSQL
