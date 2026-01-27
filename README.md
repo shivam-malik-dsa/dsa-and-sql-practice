@@ -1,9 +1,11 @@
 # DSA and SQL Practice 🚀
 
-This repository contains structured practice material for:
+This repository is a collection of my learning and practice work in:
 
 - Python implementations of Data Structures & Algorithms
-- SQL queries for interview and hands-on practice (PostgreSQL)
+- SQL queries using PostgreSQL
+
+I am using this repository to learn consistently and track my progress.
 
 ---
 
@@ -54,13 +56,15 @@ dsa-and-sql-practice/
 
 ## 🎯 Goal
 
-- Strengthen problem-solving skills  
-- Write clean & optimized Python code  
-- Build strong SQL fundamentals  
-- Prepare for software / backend interviews  
+- Build strong fundamentals in programming
+- Write clean and readable code
+- Learn data structures, algorithms, and SQL step by step
+- Maintain a public learning log on GitHub
+  
 
 ---
 
 ## 🚀 Status
 
-Actively updating this repository with new problems and optimized solutions.
+Continuously learning and improving.
+New topics and solutions are added regularly.
